@@ -26,7 +26,7 @@ CatTranslator is an innovative application designed to bridge the communication 
 
 **Lisa Rhodes**  
 Email: lisa98rhodes  
-Website: [cattranslator](https://www.cattranslator.net/)
+Website: [cattranslator](https://www.cattranslator.net)
 
 With a passion for both technology and animals, Lisa Rhodes has dedicated their career to creating innovative solutions that enhance human-animal interactions. With over 10 years of experience in software development, they specialize in AI and machine learning applications. Their work aims to make the world a better place for pets and their owners.
 
